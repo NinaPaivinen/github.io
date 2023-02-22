@@ -27,18 +27,13 @@ function scrollFunction() {
       document.getElementById("navbar").style.height = "60px";
       if (window.matchMedia("(max-width: 600px)").matches) {
         document.getElementById("navbar").style.height = "auto";
-        console.log("on alle ")
-      } else {
-        console.log("ei ole alle")
       }
-    } else {
+    } 
+    else {
       document.getElementById("navbar").style.height = "100px";
       if (window.matchMedia("(max-width: 600px)").matches) {
         document.getElementById("navbar").style.height = "auto";
-        console.log("on alle ")
-      } else {
-        console.log("ei ole alle")
-      }
+      } 
     }
   } 
 
