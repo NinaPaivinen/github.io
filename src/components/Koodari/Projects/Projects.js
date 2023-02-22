@@ -17,7 +17,7 @@ function Projects() {
       <Particle />
       <Container>
     
-<h1  style={{ color: "white" }}>Ohjelmisto <span class="fire">p</span><span class="burn">r</span>
+<h1  style={{ color: "white" }}>Ohjelmisto <p></p><span class="fire">p</span><span class="burn">r</span>
 <span class="burn">o</span><span class="fire">j</span> 
 <span class="fire">e</span> <span class="fire">k</span> 
 

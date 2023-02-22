@@ -13,6 +13,10 @@
       white max(9.5rem, 27vh)
     );
 }
+@media (max-width: 667px) {
+  .card {
+    width: 90%;
+  }}
 
 .card:hover {
   --card-gradient: rgba(0, 0, 0, 0.8);

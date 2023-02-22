@@ -28,7 +28,7 @@ function Web() {
             }}
           >
             
-            <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
+            <h1 style={{ fontSize: "4.1vW", paddingBottom: "20px" }}>
            Miksi juuri <strong className="purple">webohjelmointi?</strong>
             </h1>
             <Aboutcard />
